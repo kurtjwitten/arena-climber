@@ -1,2 +1,3 @@
 # arena-climber
-Tracking squad arena climbs
+
+Hello humans, I am Not Skynet, but I am here to help you play Star Wars games.
